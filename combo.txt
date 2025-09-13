@@ -1,0 +1,232 @@
+===========================================
+SITE APPROVED CREDIT CARDS
+===========================================
+Generated: 23/08/2025, 20:48:56
+Total Approved: 37
+KamalXd.com
+===========================================
+1. https://cityyearstore.myshopify.com
+   Gateway: Normal
+   Price: $9.24
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 21:56:09
+
+2. https://melodylicious.myshopify.com
+   Gateway: Normal
+   Price: $8.2
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 21:56:43
+
+3. https://22kill.myshopify.com
+   Gateway: Normal
+   Price: $11.38
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:00:02
+
+4. https://www.darklab.com
+   Gateway: Normal
+   Price: $24.08
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:00:48
+
+5. https://sugarnspiceartworks.myshopify.com
+   Gateway: Normal
+   Price: $3.5
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:01:05
+
+6. https://www.pipsticks.com
+   Gateway: Normal
+   Price: $5.54
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:01:27
+
+7. https://monsterhotdeals.com
+   Gateway: Authorize.net
+   Price: $3.49
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:02:00
+
+8. https://popr-records.myshopify.com
+   Gateway: Normal
+   Price: $3.6
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:02:22
+
+9. https://www.bioseaweedgel.com
+   Gateway: Normal
+   Price: $10.25
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:03:22
+
+10. https://www.pearsonranchjerky.com
+   Gateway: Normal
+   Price: $6.59
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:03:52
+
+11. https://shop.erasems.org
+   Gateway: Authorize.net
+   Price: $10.5
+   Response: GENERIC_ERROR
+   Time: 23/08/2025, 22:04:17
+
+12. 
+   Response: Cloudflare Bypass Failed
+   Time: 23/08/2025, 22:04:45
+
+13. https://childsplaybooks.myshopify.com
+   Gateway: Normal
+   Price: $13.99
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:05:12
+
+14. https://dust-dreams-boutique.myshopify.com
+   Gateway: Normal
+   Price: $3.0
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:11:06
+
+15. https://www.hulkapps.com
+   Gateway: Normal
+   Price: $9.99
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:14:21
+
+16. https://www.aris-designs.com
+   Gateway: Normal
+   Price: $26.95
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:16:48
+
+17. https://oroborostore.com
+   Gateway: Normal
+   Price: $132.0
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:17:53
+
+18. https://printfresh.com
+   Gateway: Normal
+   Price: $19.35
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:19:25
+
+19. https://www.glossier.com
+   Gateway: Normal
+   Price: $10.95
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:20:49
+
+20. https://cityyearstore.myshopify.com
+   Gateway: Normal
+   Price: $9.24
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:35:19
+
+21. https://hellfighters.myshopify.com
+   Gateway: Normal
+   Price: $6.79
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:35:42
+
+22. https://www.darklab.com
+   Gateway: Normal
+   Price: $24.08
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:36:58
+
+23. https://www.pipsticks.com
+   Gateway: Normal
+   Price: $5.54
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:37:43
+
+24. https://evlolash.com
+   Gateway: Normal
+   Price: $14.0
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:39:21
+
+25. https://fishpondusa.com
+   Gateway: Normal
+   Price: $8.45
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:40:58
+
+26. https://www.bioseaweedgel.com
+   Gateway: Normal
+   Price: $10.25
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:41:14
+
+27. https://four-seasons-of-happiness.myshopify.com
+   Gateway: Normal
+   Price: $8.28
+   Response: GENERIC_ERROR
+   Time: 23/08/2025, 20:43:24
+
+
+28. https://atsmcraft.com
+   Gateway: Normal
+   Price: $9.53
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:44:00
+
+29. https://www.pearsonranchjerky.com
+   Gateway: Normal
+   Price: $6.59
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:44:43
+
+30. https://shop.erasems.org
+   Gateway: Authorize.net
+   Price: $10.5
+   Response: GENERIC_ERROR
+   Time: 23/08/2025, 20:45:33
+
+31. https://www.xeric.com
+   Gateway: Normal
+   Price: $75.99
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:45:52
+
+32. https://allsaintssisters.myshopify.com
+   Gateway: Normal
+   Price: $11.75
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:46:09
+
+33. https://happymugcoffee.com
+   Gateway: Normal
+   Price: $4.75
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:46:51
+
+34. https://maintainshop.com
+   Gateway: Normal
+   Price: $32.0
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:47:34
+   
+35. https://hiromipaper.com
+   Gateway: Normal
+   Price: $18.0
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 20:48:25
+   
+36. https://www.hautelooksclothing.com
+   Gateway: Normal
+   Price: $22.95
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:48:59
+   
+37. https://rj-home.myshopify.com
+   Gateway: Normal
+   Price: $18.75
+   Response: CARD_DECLINED
+   Time: 23/08/2025, 22:49:24
+   
+
+===========================================
+End of SITE Approved Cards
+===========================================
