@@ -5,7 +5,7 @@ from telebot import TeleBot, types
 CHANNEL_URL      = "https://t.me/Galaxy_Carders"
 GROUP_URL        = "https://t.me/+Np5evfAaxG80YThl"
 LOG_CHANNEL_ID   = -1002711857436
-API_BASE         = "https://phpstack-1490542-5684408.cloudwaysapps.com/st.php?cc="
+API_BASE         = "https://stripe.stormx.pw/gateway=autostripe/key=darkboy/site=buildersdiscountwarehouse.com.au/cc="
 PREMIUM_FILE     = "id.txt"
 FREE_COOLDOWN    = 30
 PREMIUM_COOLDOWN = 10
