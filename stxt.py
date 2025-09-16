@@ -11,7 +11,7 @@ LOG_CHANNEL_ID = -1002711857436
 CHANNEL_URL = "https://t.me/Galaxy_Carders"
 OWNER_ID = 7578581395
 PREMIUM_FILE = "id.txt"
-API_BASE = "https://phpstack-1493278-5699585.cloudwaysapps.com/chk.php?cc="
+API_BASE = "https://stripe.stormx.pw/gateway=autostripe/key=darkboy/site=buildersdiscountwarehouse.com.au/cc="
 CARD_REGEX = re.compile(r"(\d{12,19})\D(\d{1,2})\D(\d{2,4})\D(\d{3,4})")
 MAX_CARDS = 500
 ERROR_THRESHOLD = 5
