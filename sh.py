@@ -842,10 +842,10 @@ def handle_sh(message):
         decline_list = [
             "GENERIC_ERROR", "AUTHORIZATION_ERROR", "CARD_DECLINED",
             "INCORRECT_NUMBER", "UNPROCESSABLE_TRANSACTION",
-            "PROCESSING_ERROR", "EXPIRED_CARD", "CARD TOKEN IS EMPTY", "FRAUD_SUSPECTED", "INVAILD_CVC", "PICK_UP_CARD", "DECLINED", "INVAILD_PAYMENT_ERROR", "INCORRECT_ZIP", "INVALID_TOKEN", "tax ammount empty"
+            "PROCESSING_ERROR", "EXPIRED_CARD", "CARD TOKEN IS EMPTY", "FRAUD_SUSPECTED", "INVAILD_CVC", "PICK_UP_CARD", "DECLINED", "INVAILD_PAYMENT_ERROR", "INCORRECT_NUMBER", "INVALID_TOKEN", "tax ammount empty"
         ]
-        approve_list = ["INCORRECT_CVC", "INSUFFICIENT_FUNDS", "3D CC", "3D_AUTHENTICATION"]
-        unknown_list = ["INVALID URL", "HANDLE IS EMPTY", "RECEIPT ID IS EMPTY", "HCAPTCHA DETECTED", "AMOUNT_TOO_SMALL", "R4 TOKEN EMPTY", "py id empty", "Clinte Token", "py id empty", "r4 token empty"]
+        approve_list = ["INCORRECT_CVC", "INSUFFICIENT_FUNDS", "3D CC", "3D_AUTHENTICATION", "INCORRECT_ZIP"]
+        unknown_list = ["INVALID URL", "HANDLE IS EMPTY", "RECEIPT ID IS EMPTY", "HCAPTCHA DETECTED", "AMOUNT_TOO_SMALL", "R4 TOKEN EMPTY", "py id empty", "Clinte Token", "py id empty", "r4 token empty", "CLINTE TOKEN"]
 
         if status in decline_list:
             status_display = "Declined ❌"
@@ -942,10 +942,10 @@ def handle_msh(message):
     decline_list = [
         "GENERIC_ERROR", "AUTHORIZATION_ERROR", "CARD_DECLINED",
         "DECLINED", "INCORRECT_NUMBER", "UNPROCESSABLE_TRANSACTION",
-        "PROCESSING_ERROR", "EXPIRED_CARD", "CARD TOKEN IS EMPTY", "FRAUD_SUSPECTED", "PICK_UP_CARD", "INVAILD_PAYMENT_ERROR", "INVAILD_CVC", "INCORRECT_ZIP", "INVALID_TOKEN", "tax ammount empty"
+        "PROCESSING_ERROR", "EXPIRED_CARD", "CARD TOKEN IS EMPTY", "FRAUD_SUSPECTED", "PICK_UP_CARD", "INVAILD_PAYMENT_ERROR", "INVAILD_CVC", "INCORRECT_NUMBER", "INVALID_TOKEN", "tax ammount empty"
     ]
-    approve_list = ["INCORRECT_CVC", "INSUFFICIENT_FUNDS", "3D CC", "3D_AUTHENTICATION"]
-    unknown_list = ["INVALID URL", "HANDLE IS EMPTY", "RECEIPT ID IS EMPTY", "HCAPTCHA DETECTED", "AMOUNT_TOO_SMALL", "Clinte Token", "py id empty", "r4 token empty"]
+    approve_list = ["INCORRECT_CVC", "INSUFFICIENT_FUNDS", "3D CC", "3D_AUTHENTICATION", "INCORRECT_ZIP"]
+    unknown_list = ["INVALID URL", "HANDLE IS EMPTY", "RECEIPT ID IS EMPTY", "HCAPTCHA DETECTED", "AMOUNT_TOO_SMALL", "Clinte Token", "py id empty", "r4 token empty", "CLINTE TOKEN"]
 
     # Initial message with header and 0 progress
     text = (f"<b>『 Mass Auto Shopify [ /msh ] 』</b>\n"
@@ -1250,7 +1250,7 @@ APPROVE_LIST = [
 ]
 UNKNOWN_LIST = [
     "INVALID URL", "HANDLE IS EMPTY", "RECEIPT ID IS EMPTY",
-    "HCAPTCHA DETECTED", "AMOUNT_TOO_SMALL", "Clinte Token", "py id empty", "r4 token empty"
+    "HCAPTCHA DETECTED", "AMOUNT_TOO_SMALL", "Clinte Token", "py id empty", "r4 token empty", "CLINTE TOKEN"
 ]
 
 
@@ -1676,7 +1676,7 @@ from telebot import TeleBot, types
 # ────────── CONFIG ──────────
 CHANNEL_URL      = "https://t.me/Galaxy_Carders"
 LOG_CHANNEL_ID   = -1002711857436
-API_BASE         = "https://auto-shopify-6cz4.onrender.com/index.php?cc="
+API_BASE         = "https://stripe.stormx.pw/gateway=autostripe/key=darkboy/site=buildersdiscountwarehouse.com.au/cc="
 PREMIUM_FILE     = "id.txt"
 FREE_COOLDOWN    = 40  # free users timeout for /chk
 PREMIUM_COOLDOWN = 10
